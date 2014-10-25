@@ -123,7 +123,6 @@ def check_if_dna(fasta):
             pass # it's DNA
 
 def dna_protein_dna(fasta):
-    # Not complete yet. 
     """
     Takes a fasta DNA sequence, converts it to protein, alligns the protein sequence, and converts it back to DNA.
     """
